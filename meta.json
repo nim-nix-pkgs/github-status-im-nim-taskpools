@@ -3,42 +3,11 @@
   "license": "MIT",
   "method": "git",
   "name": "github-status-im-nim-taskpools",
-  "tags": [
-    {
-      "description": "lightweight, energy-efficient, easily auditable threadpool",
-      "license": "MIT",
-      "name": "github-status-im-nim-taskpools",
-      "ref": "refs/tags/v0.0.2",
-      "url": "https://github.com/status-im/nim-taskpools",
-      "version": "v0_0_2"
-    },
-    {
-      "description": "lightweight, energy-efficient, easily auditable threadpool",
-      "license": "MIT",
-      "name": "github-status-im-nim-taskpools",
-      "ref": "refs/tags/v0.0.3",
-      "url": "https://github.com/status-im/nim-taskpools",
-      "version": "v0_0_3"
-    }
-  ],
+  "tags": [],
   "url": "https://github.com/status-im/nim-taskpools",
   "refs": [
-    "refs/heads/eventcount",
-    "refs/heads/poc-small-tasks",
-    "refs/heads/stable",
-    "refs/heads/unstable",
-    "refs/tags/v0.0.2",
-    "refs/tags/v0.0.3",
+    "fatal: unable to access 'https://github.com/status-im/nim-taskpools/': Could not resolve host: github.com",
     ""
   ],
-  "heads": [
-    {
-      "description": "lightweight, energy-efficient, easily auditable threadpool",
-      "license": "MIT",
-      "name": "github-status-im-nim-taskpools",
-      "ref": "refs/heads/unstable",
-      "url": "https://github.com/status-im/nim-taskpools",
-      "version": "unstable"
-    }
-  ]
+  "heads": []
 }
