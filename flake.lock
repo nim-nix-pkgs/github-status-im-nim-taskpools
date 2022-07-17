@@ -33,11 +33,11 @@
       },
       "locked": {
         "dir": "unstable",
-        "lastModified": 1657152971,
-        "narHash": "sha256-h3+GRw8Lpp1OkyfzFIDHVpH3Vq06T2c3X6AE4AwX29w=",
+        "lastModified": 1658017951,
+        "narHash": "sha256-m9V11vlCOtIlCPgLr5KBtXFO+hesCc2zPT+LnIceTBQ=",
         "owner": "nim-nix-pkgs",
         "repo": "github-status-im-nim-taskpools",
-        "rev": "b54575669a0ea01f8fadb56deaa1dd20a74286bf",
+        "rev": "21f1df01bc5b76543ed8898b6e6a67358a883a65",
         "type": "github"
       },
       "original": {
@@ -60,11 +60,11 @@
       },
       "locked": {
         "dir": "v0_0_2",
-        "lastModified": 1657152971,
-        "narHash": "sha256-h3+GRw8Lpp1OkyfzFIDHVpH3Vq06T2c3X6AE4AwX29w=",
+        "lastModified": 1658017951,
+        "narHash": "sha256-m9V11vlCOtIlCPgLr5KBtXFO+hesCc2zPT+LnIceTBQ=",
         "owner": "nim-nix-pkgs",
         "repo": "github-status-im-nim-taskpools",
-        "rev": "b54575669a0ea01f8fadb56deaa1dd20a74286bf",
+        "rev": "21f1df01bc5b76543ed8898b6e6a67358a883a65",
         "type": "github"
       },
       "original": {
@@ -87,11 +87,11 @@
       },
       "locked": {
         "dir": "v0_0_3",
-        "lastModified": 1657152971,
-        "narHash": "sha256-h3+GRw8Lpp1OkyfzFIDHVpH3Vq06T2c3X6AE4AwX29w=",
+        "lastModified": 1658017951,
+        "narHash": "sha256-m9V11vlCOtIlCPgLr5KBtXFO+hesCc2zPT+LnIceTBQ=",
         "owner": "nim-nix-pkgs",
         "repo": "github-status-im-nim-taskpools",
-        "rev": "b54575669a0ea01f8fadb56deaa1dd20a74286bf",
+        "rev": "21f1df01bc5b76543ed8898b6e6a67358a883a65",
         "type": "github"
       },
       "original": {
@@ -126,11 +126,11 @@
     "src-github-status-im-nim-taskpools-unstable": {
       "flake": false,
       "locked": {
-        "lastModified": 1642437565,
-        "narHash": "sha256-ctuP3NqyTjfHgzjd9cnD4+C0f5nn+AMui3aysrKK9ag=",
+        "lastModified": 1657650867,
+        "narHash": "sha256-O/NUipW3pzDSWPcaiuM8AqHzmxP+929PcFPdH54nvQE=",
         "owner": "status-im",
         "repo": "nim-taskpools",
-        "rev": "b31b891f114cf8704728116435efc5a2f9c2a719",
+        "rev": "7bdaa8a897ecc0297eb8b829aa67597e8c8b85a2",
         "type": "github"
       },
       "original": {
