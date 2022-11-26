@@ -204,22 +204,22 @@
       "inputs": {
         "flakeNimbleLib": "flakeNimbleLib",
         "nixpkgs": "nixpkgs_2",
-        "src-github-status-im-nim-taskpools-unstable": "src-github-status-im-nim-taskpools-unstable"
+        "src-github-status-im-nim-taskpools-v0_0_4": "src-github-status-im-nim-taskpools-v0_0_4"
       }
     },
-    "src-github-status-im-nim-taskpools-unstable": {
+    "src-github-status-im-nim-taskpools-v0_0_4": {
       "flake": false,
       "locked": {
-        "lastModified": 1657650867,
-        "narHash": "sha256-O/NUipW3pzDSWPcaiuM8AqHzmxP+929PcFPdH54nvQE=",
+        "lastModified": 1669056972,
+        "narHash": "sha256-HxG6eVufw2kWwh+2Xqx+GIbQUuP1oA9C2DxQd0OPQbU=",
         "owner": "status-im",
         "repo": "nim-taskpools",
-        "rev": "7bdaa8a897ecc0297eb8b829aa67597e8c8b85a2",
+        "rev": "b3673c7a7a959ccacb393bd9b47e997bbd177f5a",
         "type": "github"
       },
       "original": {
         "owner": "status-im",
-        "ref": "refs/heads/unstable",
+        "ref": "refs/tags/v0.0.4",
         "repo": "nim-taskpools",
         "type": "github"
       }
