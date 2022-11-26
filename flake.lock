@@ -182,11 +182,11 @@
       },
       "locked": {
         "dir": "unstable",
-        "lastModified": 1669417749,
-        "narHash": "sha256-GIvTCA5n5WS3hfqI75ORGwUvfnR2KulpOgH7rXAQzRY=",
+        "lastModified": 1669431124,
+        "narHash": "sha256-A3dV9TvDY8hKboEF041dDCU53qZ0GunKjCO3VHXuUH4=",
         "owner": "nim-nix-pkgs",
         "repo": "github-status-im-nim-taskpools",
-        "rev": "aec483c2623191a34fcc72d95d78685e9285637d",
+        "rev": "f622fedd348fd93544fc611659f180266b80d251",
         "type": "github"
       },
       "original": {
@@ -209,11 +209,11 @@
       },
       "locked": {
         "dir": "v0_0_2",
-        "lastModified": 1669417749,
-        "narHash": "sha256-GIvTCA5n5WS3hfqI75ORGwUvfnR2KulpOgH7rXAQzRY=",
+        "lastModified": 1669431124,
+        "narHash": "sha256-A3dV9TvDY8hKboEF041dDCU53qZ0GunKjCO3VHXuUH4=",
         "owner": "nim-nix-pkgs",
         "repo": "github-status-im-nim-taskpools",
-        "rev": "aec483c2623191a34fcc72d95d78685e9285637d",
+        "rev": "f622fedd348fd93544fc611659f180266b80d251",
         "type": "github"
       },
       "original": {
@@ -236,11 +236,11 @@
       },
       "locked": {
         "dir": "v0_0_3",
-        "lastModified": 1669417749,
-        "narHash": "sha256-GIvTCA5n5WS3hfqI75ORGwUvfnR2KulpOgH7rXAQzRY=",
+        "lastModified": 1669431124,
+        "narHash": "sha256-A3dV9TvDY8hKboEF041dDCU53qZ0GunKjCO3VHXuUH4=",
         "owner": "nim-nix-pkgs",
         "repo": "github-status-im-nim-taskpools",
-        "rev": "aec483c2623191a34fcc72d95d78685e9285637d",
+        "rev": "f622fedd348fd93544fc611659f180266b80d251",
         "type": "github"
       },
       "original": {
@@ -263,11 +263,11 @@
       },
       "locked": {
         "dir": "v0_0_4",
-        "lastModified": 1669417749,
-        "narHash": "sha256-GIvTCA5n5WS3hfqI75ORGwUvfnR2KulpOgH7rXAQzRY=",
+        "lastModified": 1669431124,
+        "narHash": "sha256-A3dV9TvDY8hKboEF041dDCU53qZ0GunKjCO3VHXuUH4=",
         "owner": "nim-nix-pkgs",
         "repo": "github-status-im-nim-taskpools",
-        "rev": "aec483c2623191a34fcc72d95d78685e9285637d",
+        "rev": "f622fedd348fd93544fc611659f180266b80d251",
         "type": "github"
       },
       "original": {
